@@ -1,0 +1,42 @@
+#classModal {}
+
+#classModalLabel{
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  color: #1a335c;
+}
+#classTable{
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: black;
+
+}
+#table-heading{
+  font-family: 'verdena';
+  font-size: 18px;
+  color: #000080;
+}
+#txn{
+  font-family: 'Roboto Condensed '
+  font-size: 24px;
+  color: #1a335c;
+}
+#classModal-form{
+  max-width: 650px;
+}
+
+.ast{
+  color: #FF0000;
+}
+
+.form-group{
+  font-family: 'Roboto'
+  font-size: 24px;
+  color: #1a335c;
+  text-align: left;
+  text-decoration: bold;
+}
+.modal-body {
+  overflow-x: auto;
+}
